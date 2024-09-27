@@ -16,7 +16,7 @@
       ],
       "title": "Cap Ebbets Corduroy",
       "regularPrice": "$48.00 CAD",
-      "id": 1,
+      "id": 1
     },
 
     {
@@ -35,7 +35,7 @@
       ],
       "title": "Cap Ebbets Corduroy",
       "regularPrice": "$48.00 CAD",
-      "id": 2,
+      "id": 2
     },
     {
       "images": [
@@ -52,7 +52,7 @@
         "Black leather strap and black metal press closure"
       ],
       "title": "Cap Wool",
-      "regularPrice": "$48.00 CAD", "id": 3,
+      "regularPrice": "$48.00 CAD", "id": 3
     },
     {
       "id": 4,
